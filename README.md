@@ -1,2 +1,1 @@
-# ts-axios
-this is first time use TypeScript with Axios to create new project
+这是第一次使用 TS创建 axios项目
